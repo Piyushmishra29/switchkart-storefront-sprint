@@ -1,6 +1,8 @@
 # switchkart-seo-aeo-sprint
 
-Working repo for the **Switchkart Technical SEO + AEO Remediation Sprint**, delivered by **Daily Web** — a [Daily Mark8ing](https://dailymark8ing.com) studio (legal entity: AKAARA SERVICES) — May 2026.
+Working repo for the **Switchkart Shopify Theme Refresh + Search Visibility Sprint** — delivered by **Daily Web**, a [Daily Mark8ing](https://dailymark8ing.com) studio (legal entity: AKAARA SERVICES) — May 2026.
+
+A fast theme refresh on a clean Shopify foundation, with all the April-2026 audit fixes (SEO + AEO + Core Web Vitals + Merchant Center + schema) baked into the new build. One deploy, not a theme patch followed by a separate SEO patch.
 
 > Daily Web is the Daily Mark8ing sub-brand for websites, landing pages, and technical-web work (SEO/AEO, schema, Core Web Vitals, Shopify/Next.js theme engineering). Tagline: *Built to ship.*
 
