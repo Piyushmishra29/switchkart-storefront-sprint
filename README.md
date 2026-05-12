@@ -26,6 +26,6 @@ Working repo for the **Switchkart Technical SEO + AEO Remediation Sprint**, deli
 - Actual theme code edits land in the Switchkart Shopify theme repo (or via Shopify Admin theme editor) — every edit gets a one-line entry in `docs/changelog.md` with file path + summary.
 - Decisions made during the sprint that affect scope or timeline are appended as dated addenda at the bottom of `PRD.md` — never edited inline.
 
-## Confidentiality
+## Sharing
 
-This repo contains audit findings and structural details of a client's site. **Private by default.** Do not fork, copy, or share contents externally without written consent from both Daily Web (AKAARA SERVICES) and Switchkart.
+Published openly so Switchkart can review the proposed scope, success metrics, and timeline directly. Audit findings referenced here are summarised from the source audit PDF held with the studio; reproduction of this document for commercial pitching by third parties is not permitted.
